@@ -1,0 +1,6 @@
+Right-click on the Finance OU and select "New" then "Group"
+Create the group with these settings:
+Group name: Finance-Users
+Group scope: Global
+Group type: Security
+Click OK to create
